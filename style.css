@@ -4,3 +4,6 @@ body{
 ul{
     color: yellow;
 }
+li{
+    size: 10px;
+}
